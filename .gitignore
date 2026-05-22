@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+lumina_forecasting_old/
+artifacts/
+.env
+*.zip
+Dockerfile
+.dockerignore
